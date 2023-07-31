@@ -1,3 +1,9 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 
+<<<<<<< HEAD
 This line was editted in github by pressing edit. in order to test fetch.
+=======
+This is the second line text to test branching.
+
+Uh oh, here we go with the divergent branches merging.
+>>>>>>> e1b77c7 (Addes text to Alice to test divergent branches merging)
