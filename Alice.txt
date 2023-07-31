@@ -3,3 +3,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This line was editted in github by pressing edit. in order to test fetch.
 
 Uh oh, here we go with the divergent branches merging.
+
+Now we are testing out rebasing.
